@@ -1,0 +1,1 @@
+bcdedit.exe -set {globalsettings} bootuxdisabled on
