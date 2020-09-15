@@ -1,5 +1,7 @@
 ### ABOUT
-This is to customize the Windows 10 bootup screen. Please note, You may have to re-apply this upon a Windows 10 update.
+This is to customize the Windows 10 bootup screen.
+- You may have to re-apply this upon a Windows 10 update.
+- You do need UEFI mode enabled with Secure Boot disabled for this to function.
 
 ### STEPS
 1. Unzip HackBGRT to a folder. You will notice there is a splash.bmp file in the HackBGRT folder.
